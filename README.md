@@ -17,5 +17,11 @@ A command-line based password manager built using Python.
 1. Download or clone the repository
 2. Run main.py
 
+## Screenshot
+
+![App Screenshot](screenshot.png)
+
 ## Author
 Arjun Rajaram
+
+
